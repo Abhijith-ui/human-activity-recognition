@@ -26,3 +26,7 @@ Project in progress. Building step by step.
 ## ⚙️ Installation
 
 pip install -r requirements.txt
+
+## 📥 Dataset
+Download from:
+https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
