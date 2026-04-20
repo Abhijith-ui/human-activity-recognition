@@ -22,3 +22,7 @@ Project in progress. Building step by step.
 - Understanding sensor data
 - Handling high-dimensional data
 - Applying PCA for visualization
+
+## ⚙️ Installation
+
+pip install -r requirements.txt
