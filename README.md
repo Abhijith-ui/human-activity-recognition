@@ -25,7 +25,9 @@ Project in progress. Building step by step.
 
 ## ⚙️ Installation
 
+```bash
 pip install -r requirements.txt
+```
 
 ## 📥 Dataset
 Download from:
