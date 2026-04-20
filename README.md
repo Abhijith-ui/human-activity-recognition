@@ -16,7 +16,8 @@ UCI Human Activity Recognition Dataset
 (To be updated)
 
 ## 🚀 Status
-Project in progress. Building step by step.
+Actively building an end-to-end ML pipeline for human activity classification.
+Currently working on feature engineering and model development.
 
 ## 🧠 Learnings
 - Understanding sensor data
@@ -32,3 +33,11 @@ pip install -r requirements.txt
 ## 📥 Dataset
 Download from:
 https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
+
+## 📈 Results
+
+- Data successfully loaded and preprocessed
+- Feature structure explored (561 features)
+- Preparing for dimensionality reduction (PCA) and model training
+
+🚧 Model training and evaluation in progress
