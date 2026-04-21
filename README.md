@@ -4,7 +4,10 @@
 Classify human activities such as walking, sitting, and standing using smartphone sensor data.
 
 ## 📊 Dataset
-UCI Human Activity Recognition Dataset
+UCI Human Activity Recognition Dataset  
+🔗 https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
+
+---
 
 ## ⚙️ Approach
 - Data preprocessing
@@ -64,8 +67,4 @@ UCI Human Activity Recognition Dataset
 
 ```bash
 pip install -r requirements.txt
-
-📥 Dataset
-
-Download from:
-https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
+```
